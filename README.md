@@ -39,10 +39,8 @@ src="https://img.shields.io/twitter/follow/AbdullahCodesxD?logo=twitter&style=fo
 
 <div width="100%" align="center"><a href="https://github.com/codingwebthree/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/codingwebthree/abdullahchat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=abdullahchat&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/codingwebthree/game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=game&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div>
 
+<br /><br /><br /><br /><br />
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/AbdullahCodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
