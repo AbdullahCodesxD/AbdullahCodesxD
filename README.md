@@ -31,13 +31,13 @@ src="https://img.shields.io/twitter/follow/AbdullahCodesxD?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/codingwebthree" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AbdullahCodesxD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/abdullahcodesxd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AbdullahCodesxD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/codingwebthree/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/codingwebthree/abdullahchat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=abdullahchat&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/abdullahcodesxd/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/abdullahcodesxd/abdullahchat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=abdullahchat&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/codingwebthree/game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codingwebthree&repo=game&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/abdullahcodesxd/game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=game&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div>
 
