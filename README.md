@@ -9,8 +9,6 @@ I've been learning to code for the past two and a half years. I've worked as a f
 * 🌍  I'm based in Bahawalpur, Pakistan.
 * 🖥️  See my portfolio at [Abdullahcodesxd.](http://abdullahcodesxd.netlify.app)
 * ✉️  You can contact me at [abdullahcodesxd@gmail.com](mailto:abdullahcodesxd@gmail.com)
-* 🚀  I'm currently working on [Sicktweb.](http://sicktweb.netlify.app )
-* 🧠  I'm learning React.
 * 🤝  I'm open to collaborating on Interesting front-end projects.
 * ⚡  I'm also curious about Artificial Intelligence, and in the future, I hope to expand my knowledge in the field of AI.
 
