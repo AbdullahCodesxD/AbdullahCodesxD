@@ -65,16 +65,3 @@
 
 ---
 
-### 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/abdullahcodesxd/Webify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=Webify&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/abdullahcodesxd/React-is-fun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=React-is-fun&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/abdullahcodesxd/PortFolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=PortFolio&theme=tokyonight" />
-  </a>
-</div>
