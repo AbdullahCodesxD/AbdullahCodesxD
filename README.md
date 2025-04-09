@@ -1,44 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Masood
-=======================================================================================================================================
+<h1 align="center">Hi there 👋, I'm Abdullah Masood</h1>
+<h3 align="center">Front-end Web Developer | Freelancer | Tech Explorer</h3>
 
-Front-end Web Developer.
-------------------------
-
-I've been learning to code for the past two and a half years. I've worked as a freelancer for almost 2 years. I started my journey with HTML and CSS, and now I have a great front-end stack which includes technologies like JavaScript, React, Tailwind, Figma, and SCSS. In the future, I'm looking forward to completing the MERN stack and becoming a full-stack developer.
-
-* 🌍  I'm based in Bahawalpur, Pakistan.
-* 🖥️  See my portfolio at [Abdullahcodesxd.](http://abdullahcodesxd.netlify.app)
-* ✉️  You can contact me at [abdullahcodesxd@gmail.com](mailto:abdullahcodesxd@gmail.com)
-* 🤝  I'm open to collaborating on Interesting front-end projects.
-* ⚡  I'm also curious about Artificial Intelligence, and in the future, I hope to expand my knowledge in the field of AI.
-
-<a href="https://www.github.com/abdullahcodesxd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abdullahcodesxd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/abdullahcodesxd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abdullahcodesxd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://github.com/abdullahcodesxd"><img src="https://komarev.com/ghpvc/?username=abdullahcodesxd&label=Profile%20views&color=0891b2&style=flat" alt="abdullahcodesxd" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/abdullahcodesxd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdullahcodesxd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/abdullahcodesxd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### 🧠 About Me
 
-<b>My GitHub Stats</b>
+- 💻 Self-taught developer with **2.5 years of coding** and **2 years of freelancing** experience.
+- 🚀 Skilled in **JavaScript, React, Tailwind, SCSS, Git**, and **Figma**.
+- 🌱 Currently diving deeper into **MongoDB, Express, and Node.js** to become a **full-stack developer**.
+- 🧠 Passionate about **learning AI** and expanding into machine learning.
+- 🌍 Based in **Bahawalpur, Pakistan**.
+- 💌 Reach me at **[abdullahcodesxd@gmail.com](mailto:abdullahcodesxd@gmail.com)**.
+- 🧩 Open to **collaborating on cool front-end projects**.
 
-<a href="http://www.github.com/abdullahcodesxd"><img src="https://github-readme-stats.vercel.app/api?username=abdullahcodesxd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdullahcodesxd's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/abdullahcodesxd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahcodesxd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🚀 Tech Stack
 
-<a href="https://github.com/abdullahcodesxd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahcodesxd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,sass,git,firebase,figma" />
+</p>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/abdullahcodesxd/Webify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=Webify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abdullahcodesxd/React-is-fun" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=React-is-fun&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🌐 Connect with Me
 
-<br /><br /><br /><br /><br />
+<p align="left">
+  <a href="https://github.com/abdullahcodesxd" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullahcodesxd" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  </a>
+  <a href="https://www.x.com/abdullahcodesxd" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" />
+  </a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/abdullahcodesxd/PortFolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=PortFolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/abdullahcodesxd">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahcodesxd&show_icons=true&count_private=true&theme=tokyonight" alt="Abdullah's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdullahcodesxd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahcodesxd&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdullahcodesxd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahcodesxd&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/abdullahcodesxd/Webify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=Webify&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abdullahcodesxd/React-is-fun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=React-is-fun&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abdullahcodesxd/PortFolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahcodesxd&repo=PortFolio&theme=tokyonight" />
+  </a>
+</div>
